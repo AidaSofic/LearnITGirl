@@ -1,30 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="905feeb1-840b-45d3-9169-e640bac46086" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/IntelliLang.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_windows/git.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_windows/hg.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_windows/keymap.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_windows/laf.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_windows/path.macros.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/colors/MyFont.icls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/debugger.renderers.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/debugger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/diff.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/file.template.settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/github_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gradle.run.settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ide.general.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/inspection/Default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jdk.table.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mavenVersion.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/other.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/project.default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web-browsers.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="905feeb1-840b-45d3-9169-e640bac46086" name="Default" comment="" />
     <ignored path="LearnITGirl.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -403,7 +380,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
