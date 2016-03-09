@@ -1,8 +1,8 @@
 package com.company;
 
-/*public class Main {
+//public class Main {
 
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
 	int x=10;
        // x++;
         //x=x+1
@@ -19,7 +19,7 @@ package com.company;
     }
 }*/
 
-import java.text.DecimalFormat;
+/*import java.text.DecimalFormat;
 import java.util.Scanner;
 import java.text.DecimalFormat;
 
@@ -62,7 +62,7 @@ import java.text.DecimalFormat;
 
         System.out.println("The entered String is");
         System.out.print(user_input_string);
-    }}*/
+    }}
 public class Main {
 
     public static void main(String[] args) {
@@ -109,7 +109,7 @@ public class Main {
             return number1 / number2;
 
 
-        }}}
+        }}}*/
 
 
 /*public class Main {
@@ -126,4 +126,128 @@ public class Main {
         String s3 = s1 + s2;
         System.out.println(s3);
     }
-}*/
+}
+public class Main {
+
+    public static void main(String[] args) {
+
+        boolean b = false;
+        b = true;
+
+        boolean toBe = false;
+        b = toBe || !toBe;
+        if (b) {
+            System.out.println(toBe);
+    }}}*/
+
+/*import java.util.Scanner;
+
+//import java.util.Scanner;
+public class Main {
+
+    /*public static void main(String[] args) {
+
+        Scanner userInputScanner = new Scanner(System.in);
+
+        // Testing nextLine();
+        //System.out.print("\nWhat is your name? ");
+        //String name = userInputScanner.nextLine();
+
+        //
+        /*for (int i = 0; i < 10; i++) {
+            System.out.println(i);
+        }*/
+        //while
+        /*
+        while (true){
+            // your code goes here
+        }
+         */
+        /*int count = 0;
+        while (count < 10 && count > 0) {
+            System.out.println(count);
+            count++; // count = count + 1
+        }*/
+
+
+        /*int month = 2;
+
+        switch (month) {
+            case 1:  System.out.println("January");
+            case 2:  System.out.println("February");
+
+            default: break;
+        }*/
+
+        /*String a = "Hello World";
+        System.out.println(a);
+        a = "LearnItGirl";
+        System.out.println(a);
+        System.out.println(a);
+        System.out.println(a);*/
+
+
+        /*int b = 10;
+        System.out.println(b);
+        b = 12;
+        System.out.println(b);*/
+        //Arrays
+
+
+       /* int[] ages;
+        ages = new int[3]; //new type_of_variables[size]
+        ages[0] = 11;
+        ages[1] = 10;
+        ages[2] = 3;
+
+        /*System.out.println(ages[0]);
+        System.out.println(ages[1]);
+        System.out.println(ages[2]);*/
+        //System.out.println(ages[3]);
+
+        /*for (int j = 0; j < ages.length; j++)
+            System.out.println(ages[j]);*/
+
+
+        /*String animals[] = new String[3];
+        String animals[];
+        animals = new String[3];
+
+        animals[0] = "dog";
+        animals[1] = "cat";
+        animals[2] = "bird";
+
+        for (int i = 0; i < animals.length; i++)
+            System.out.println("Name: " + animals[i] + " " + "Age " + ages[i]);*/
+
+        //classes example - http://www.tutorialspoint.com/java/java_object_classes.htm
+
+//new method
+
+    //public static int methodName(int a, int b) {{
+        // body
+
+
+//basic operators - http://www.tutorialspoint.com/java/java_basic_operators.htm
+//conditional operator ( ? : )
+
+public class Main {
+
+        public static void main(String[] args) {
+    int a, b;
+    a = 10;
+    b = (a == 1) ? 20: 30;
+    System.out.println( "Value of b is : " +  b );//this I do not understand
+
+    b = (a == 10) ? 20: 30;
+    System.out.println( "Value of b is : " + b ); //this I do not understand
+
+           /* int age = 21;
+
+            System.out.println(age > 50 ? "You are old" : "You are young");
+            // System.out.println(age > 50 ? "if true" : "if false");*/
+
+
+        }
+}
+
